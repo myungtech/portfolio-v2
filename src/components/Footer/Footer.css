@@ -1,0 +1,72 @@
+.FooterContainer {
+  background-color: #0e50f5;
+}
+.FooterWrap {
+  padding: 48px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.FooterLinkContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.FooterLinkTitle {
+  font-size: 2.5rem;
+  color: #fff;
+  margin-bottom: 64px;
+}
+.FooterLink {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+.FooterLink:hover {
+  color: #da22ac;
+  transition: 0.3s ease-out;
+}
+.SocialMedia {
+  max-width: 1000px;
+  width: 100%;
+}
+
+.SocialIconLink {
+  color: #fff;
+  font-size: 24px;
+}
+.SocialIcons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 240px;
+}
+.SocialLogo {
+  color: #fff;
+  cursor: pointer;
+  justify-self: start;
+  text-decoration: none;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  font-weight: bold;
+}
+
+.SocialMediaWrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1100px;
+  margin: 40px auto 0 auto;
+}
+.WebsiteRights {
+  color: #fff;
+  margin-bottom: 16px;
+}
