@@ -17,36 +17,20 @@ export const homeObjOne = {
     darkText: false
 };
 
-/* export const homeObjTwo = {
-    id: 'projects',
+/* export const skills = {
+    id: 'skills',
     lightBg: true,
     lightText: false,
     lightTextDesc: FaLessThanEqual,
     topLine: 'Projects구역',
     headLine: '오늘 까지야 넌 할 수 이썽 !!',
     description: '무야호호호호ㅗ홓 !!!! ㅏ무야호1!!!',
-    buttonLabel: 'Projects 구역',
+    buttonLabel: 'skills 구역',
     imgStart: true,
-    img: require('../../images/svg-4.svg'),
-    alt: 'Piggy!!!!',
+    img: '',
+    alt: 'skills!!!!',
     dark: false,
     primary: false,
     darkText: true
 };
-
-export const homeObjThree = {
-    id: 'contact',
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
-    topLine: 'Contact 구역',
-    headLine: '제발좀 하자!!',
-    description: 'get access to our exclusive app that allows tou to send',
-    buttonLabel: 'contact 구역',
-    imgStart: false,
-    img: require('../../images/svg-6.svg'),
-    alt: 'fuckfuckfuckfuck',
-    dark: false,
-    primary: false,
-    darkText: true
-}; */
+*/
