@@ -27,7 +27,7 @@ const Section = () => {
             <SectionContent>
                 <SectionH1>안녕하세요 박진명의 포트폴리오입니다.</SectionH1>
                 <SectionP>
-                    REACT와 NODEJS에 진심인 개발자 박진명입니다.
+                    REACT와 NODEJS에 진심인 개발자 박진명입니다. heroku Test 입니다.
                 </SectionP>
                 <SectionBtnWrapper>
                     <Button
