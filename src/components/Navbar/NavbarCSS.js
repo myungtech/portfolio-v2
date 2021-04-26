@@ -8,7 +8,7 @@ background: ${({ scrollNav }) => (scrollNav ? '#383636' : 'transparent')};
 height: 80px;
 margin-top: -80px;
 display:flex;
-justfiy-content:center;
+justify-content: center;
 align-items:center;
 font-size:1rem;
 position:sticky;

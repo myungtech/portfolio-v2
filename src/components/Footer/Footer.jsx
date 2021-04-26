@@ -31,9 +31,6 @@ const Footer = () => {
 
                 <div className='SocialMedia'>
                     <div className='SocialMediaWrap'>
-                        <div className='SocialLogo'>
-                            MYUNG'S
-                        </div>
                         <div className='WebsiteRights'>
                             {new Date().getFullYear()} MyungTech ( ◍•㉦•◍ ) - All rights reserved
                         </div>
